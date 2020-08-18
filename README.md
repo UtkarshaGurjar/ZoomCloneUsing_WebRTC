@@ -12,6 +12,6 @@ Execute he following bash commands for running the video:
 5. npm run devStart
 
 Now open the server:
-https://localhost:3000/ 
+http://localhost:3000/ 
 
-In order to add multiple people in same room then use the same server: https://localhost:3000/eaf03817-8cc5-4915-b22d-80ae85e3190c (open 2 tabs with same userId)
+In order to add multiple people in same room then use the same server: http://localhost:3000/eaf03817-8cc5-4915-b22d-80ae85e3190c (open 2 tabs with same userId)
